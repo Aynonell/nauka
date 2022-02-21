@@ -14,3 +14,5 @@
 /Calculator/Sort/obj
 /Calculator/Tasks/bin/Debug/netcoreapp3.1
 /Calculator/Tasks/obj
+/Calculator/Program/obj/Debug/netcoreapp3.1
+/Calculator/Program/obj/Release/netcoreapp3.1
